@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://lh3.googleusercontent.com/a-/ALV-UjWA6jlkdkmro45gwfqwWr8prZNSyn1FVGOulfleIoqHzfVebQNWMCrLddk_VfJZQPP0DaTx3PsjUsJqBm8AG6DTX8iPbplJtu3rfrJFkmqLMulWMAWjsLOqa7IwqmqkfwnN8Etcib89RUp5MEXZHXGdgZmGrF7wTUi7horAqnbpi7tM3eokXQ8DeRNjVwf7vnyr1vU989q8Vvun8Wg3j01rIwn7fQlRzD07f72D6g2oA5KEwzkvWt6-1fL6tARHi-sgj8FoBXdHitzNCuK_vGwgjvQ2X1U-smPhBDW04bKuWz4UaEQaadEAJTjaDnQzRelzka8_HkniTfZkX0YJVo-AvAXzBAc-Cevp7sefA_fPaRjG5Gk32LFoB0jrc57-gNO9W6INwPTuzewDIXW0JzjYU9wCRpes71yQu1itmZ6brgwiMJWI92FOhJo-IIuv2krEEolOP8pYUlrowpW8Qem9RZhg5ReVzfqtc5X6cNupzrt-JUMF08MZVdWhfyPtmeSdZKUFs7EF92DWgCc-q6sqCW3-OOdL-kIwoTB1erxn6ptgzzb2psGMBooObeq93P05ARTbSyAEjx9dBwyHp_VQkD6VAq8RvpaBJhCspHTlo5-pmyicTdhDJFLasevq80gmn-fYyO4r5zpNOORJIMlwIvLAGHbps97w3Y_gsNZomaQ7Av7p8nQddA_rM04BxYlpncR_l1GiT05MKYp52bt1pqT1mSwxwB68iJ7Aed2nClte1lSvzP-VvNVJu_EgT0a2Pvm4rDoKzPDaLThNkAdY3n6G_AH3uaG4R-vLVhTUNbtAXQjMeablI3SGxwvfzSXdr7mSbpN_qhUzzNpOYqyp9hVj5NxZUgODaUGNMC4nk8R_YNEMSqQdRpNzKCWps60i4Cs9RdTd9QbBCj8ALgnfQThkgdjlAX3yObjJRoQo2gc4ZJ58DsxVUPyKsUGtNKBf63rEC4sH2toqEELSEt8G=s288-c-no"/>
+
   
 ###
 
@@ -10,7 +10,7 @@
 <h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
-<p align="left"> <br> Soy un futuro programador de 16 años con mucha pasión por la tecnología y un hambre insaciable por aprender. Estoy dando mis primeros pasos en el mundo de la programación y me encanta explorar nuevos lenguajes y herramientas.<br>-📍De villa de rosario, Cucúta - 🇨🇴 Colombia<br>- 📚 Estudiante en proceso<br>- 🗣️ Idiomas: Español 🇪🇸 Ingles🇬🇧 (solo los pronombres😉)</p>
+<p align="left"> <br> Soy un futuro programador de 16 años con mucha pasión por la tecnología y un hambre insaciable por aprender. Estoy dando mis primeros pasos en el mundo de la programación y me encanta explorar nuevos lenguajes y herramientas.<br>-📍De villa de rosario, Cucúta - 🇨🇴 Colombia<br>- 📚 Estudiante en proceso<br>- 🗣️ Idiomas: Español y Ingles</p>
 
 <div>
 
