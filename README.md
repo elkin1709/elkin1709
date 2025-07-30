@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Languajes</h3>
+<h3 align="left">🛠 Lenguajes</h3>
 
 ###
 
